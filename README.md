@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This account is for academic purposes.
+
 <!--
 **100499017/100499017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
